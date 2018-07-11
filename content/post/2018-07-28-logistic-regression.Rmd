@@ -1,0 +1,11 @@
+---
+title: Logistic Regression
+author: 'Max Lin'
+date: '2018-07-28'
+slug: logistic-regression
+categories: []
+tags:
+  - dictionary
+---
+
+n. A one-layer Neural Network with a sigmoid activation function.
