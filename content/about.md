@@ -1,6 +1,8 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2015-12-01"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Welcome to Addictive Regression. My name is Max Lin. I'm a software engineer interested in building teams and computer systems that turn data into models to make decisions under uncentainty.
+
+You can find me on [Twitter](https://twitter.com/m4xl1n) and [LinkedIn](https://www.linkedin.com/in/m4xl1n/).
